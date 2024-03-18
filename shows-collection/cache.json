@@ -1,0 +1,42 @@
+{
+  "program": {
+    "candyMachine": "HaYUBbpTEoUPUjgtBjSjBzUzyNSvSqVbBvKpvGfW1cGX",
+    "candyGuard": "4RaDdZ8HD9wEqEKnQ2cu7wjP2eE1sAL3g5fbSsCCHbMV",
+    "candyMachineCreator": "3QvPJC7ezhKfF7outo6Hg3DGo9rVrf5iNosSd7FwMSRj",
+    "collectionMint": "4CCFM9No53ZR5phYGAM5QkqV3LvG1jFa7dpJZhr8qh9C"
+  },
+  "items": {
+    "-1": {
+      "name": "Shoes Collection",
+      "image_hash": "fcbaec707dc51fca062cca2153afb142aea944368b87272472899e584455e01b",
+      "image_link": "https://arweave.net/Fjurionak34mu37cLdrSnmzTE6nno0tFcvrCMMnl3wk?ext=png",
+      "metadata_hash": "dab11a8ac275ce5f0d674d3b8940c4a11dabfb7c5446a94a645ec0eca6ea2550",
+      "metadata_link": "https://arweave.net/VQqPvKUPv_Yy3fzDEEawK-hHBzk75vQXIL4H6b4atLE",
+      "onChain": true
+    },
+    "0": {
+      "name": "Shoes 0",
+      "image_hash": "870a85e94963eb07309e8e0ed08d916b14297a62a4fae99115c67e2e2753c00a",
+      "image_link": "https://arweave.net/fmiWphb-5fL664aK-nHe0cCwXs5bVURQy5r9dbUznxU?ext=png",
+      "metadata_hash": "5bcb1822b5f104385b71245a2d29d5b682aa0558ffeae0c69df955efd48c212e",
+      "metadata_link": "https://arweave.net/t9vMrlToUMnSwWjDz6g9DecZJRCs4FjE6iE70oHXNAk",
+      "onChain": true
+    },
+    "1": {
+      "name": "Shoes 1",
+      "image_hash": "d06a69179d6c60e9f3c91f6b3c40f7c241c5ee02096129f77d26c7ecf23f0c66",
+      "image_link": "https://arweave.net/vCEWy89vxt-IRjfgA0vVojubDWF5q7vVB0di8uCN578?ext=png",
+      "metadata_hash": "78a4cb6569fe8664061d26a685ad6e4e01bf7b043641d348ab30e43f50d4a19d",
+      "metadata_link": "https://arweave.net/LzxC9s5k2FjbxXqFBQQ8NxvZu7nuqyXBHSXZIt_Coh8",
+      "onChain": true
+    },
+    "2": {
+      "name": "Shoes 2",
+      "image_hash": "52d6a4fc391eb0f396862aa4113e322fb1fc625988d2c51065e024df20a0db97",
+      "image_link": "https://arweave.net/YhAVNQw3d2bmPo6eA0vo1gLGcD0hCyPI9yaRRjtbHNE?ext=png",
+      "metadata_hash": "61a8b7ee3830acda95bf341b29b057561f678a4ff5cb2884deb3835763d2d05f",
+      "metadata_link": "https://arweave.net/7stigU3y74lBxUfEeOy3EjPy9sfOidcWan9GwOfJfsc",
+      "onChain": true
+    }
+  }
+}

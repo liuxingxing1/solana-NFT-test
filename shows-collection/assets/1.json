@@ -1,0 +1,26 @@
+{
+    "name": "Shoes 1",
+    "symbol": "TC",
+    "description": "Collection of my own nft's.",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "0"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "4vth8Cf8M3qCZHgTdTCSDAcEc15cgUj9vCTgKNR3qhT8",
+                "share": 100
+            }
+        ]
+    }
+}
